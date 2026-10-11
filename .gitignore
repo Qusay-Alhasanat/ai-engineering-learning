@@ -13,3 +13,5 @@ wheels/
 
 # Test and tool caches
 .pytest_cache/
+# Local project data
+records.json
