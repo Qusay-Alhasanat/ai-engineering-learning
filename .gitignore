@@ -15,3 +15,6 @@ wheels/
 .pytest_cache/
 # Local project data
 records.json
+# Customer Feedback Analyzer - local test data
+sample_feedback.csv
+invalid_feedback.csv
